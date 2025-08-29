@@ -1,3 +1,15 @@
+## What is changed in this fork
+Merged these two pull requests from d10n:
+- https://github.com/BrytonSalisbury/mesh-mini/pull/9
+- https://github.com/BrytonSalisbury/mesh-mini/pull/10
+
+## Running this fork
+
+`git clone https://github.com/sjain882/mesh-mini`
+`cd mesh-mini`
+`docker build -t mesh-mini .`
+`docker compose up`
+
 ## Downloads
 
 ### [Client Version](https://github.com/BrytonSalisbury/mesh-mini/releases/download/v1.0.1/mesh-mini.zip)

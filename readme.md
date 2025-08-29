@@ -6,8 +6,11 @@ Merged these two pull requests from d10n:
 ## Running this fork
 
 `git clone https://github.com/sjain882/mesh-mini`
+
 `cd mesh-mini`
+
 `docker build -t mesh-mini .`
+
 `docker compose up`
 
 ## Downloads
